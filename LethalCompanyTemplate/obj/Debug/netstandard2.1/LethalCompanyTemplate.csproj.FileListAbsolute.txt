@@ -1,0 +1,11 @@
+C:\Users\parte\Documents\GitHub\LethalCompanyTemplate\LethalCompanyTemplate\bin\Debug\netstandard2.1\LC Learning.deps.json
+C:\Users\parte\Documents\GitHub\LethalCompanyTemplate\LethalCompanyTemplate\bin\Debug\netstandard2.1\LC Learning.dll
+C:\Users\parte\Documents\GitHub\LethalCompanyTemplate\LethalCompanyTemplate\bin\Debug\netstandard2.1\LC Learning.pdb
+C:\Users\parte\Documents\GitHub\LethalCompanyTemplate\LethalCompanyTemplate\obj\Debug\netstandard2.1\LethalCompanyTemplate.csproj.AssemblyReference.cache
+C:\Users\parte\Documents\GitHub\LethalCompanyTemplate\LethalCompanyTemplate\obj\Debug\netstandard2.1\PluginInfo.cs
+C:\Users\parte\Documents\GitHub\LethalCompanyTemplate\LethalCompanyTemplate\obj\Debug\netstandard2.1\LethalCompanyTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parte\Documents\GitHub\LethalCompanyTemplate\LethalCompanyTemplate\obj\Debug\netstandard2.1\LethalCompanyTemplate.AssemblyInfoInputs.cache
+C:\Users\parte\Documents\GitHub\LethalCompanyTemplate\LethalCompanyTemplate\obj\Debug\netstandard2.1\LethalCompanyTemplate.AssemblyInfo.cs
+C:\Users\parte\Documents\GitHub\LethalCompanyTemplate\LethalCompanyTemplate\obj\Debug\netstandard2.1\LethalCompanyTemplate.csproj.CoreCompileInputs.cache
+C:\Users\parte\Documents\GitHub\LethalCompanyTemplate\LethalCompanyTemplate\obj\Debug\netstandard2.1\LC Learning.dll
+C:\Users\parte\Documents\GitHub\LethalCompanyTemplate\LethalCompanyTemplate\obj\Debug\netstandard2.1\LC Learning.pdb
