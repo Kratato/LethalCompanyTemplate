@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("I have no idea what I am doing")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c1d29a0e50f9136a54b7d22b0c76c93a4ae4c87")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ff0e589b6261686250e1faad2ed7b39877b39bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("LC Learning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LC Learning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
