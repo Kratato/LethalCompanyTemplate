@@ -11,4 +11,4 @@ namespace LethalCompanyTemplate
             Logger.LogInfo($"Plugin {PluginInfo.PLUGIN_GUID} is loaded!");
         }
     }
-}
+}*
