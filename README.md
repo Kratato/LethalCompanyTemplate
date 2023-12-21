@@ -3,4 +3,4 @@ A template for a BepInEx 5 Plugin, using the correct .csproj configuration for L
 
 # note to self
 
-dotnet new bepinex5plugin -n EpicMod -T "netstandard2.1" -U "2022.3.9"
+dotnet new bepinex5plugin -n [NAME] -T "netstandard2.1" -U "2022.3.9"
